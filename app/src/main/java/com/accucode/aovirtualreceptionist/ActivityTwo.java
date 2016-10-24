@@ -17,8 +17,15 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
+
+import com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential;
+import com.google.api.client.util.ExponentialBackOff;
+
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Properties;
+import java.util.Timer;
+import java.util.TimerTask;
 
 //import javax.mail.*;
 //import javax.mail.internet.*;
@@ -28,6 +35,11 @@ import java.util.Properties;
  * Created by bcarr on 7/8/2016.
  */
 public class ActivityTwo extends Activity implements OnClickListener{
+
+
+    Button btnGetSheetApiResults;
+    GoogleAccountCredential mCredential;
+    SheetMe SheetMeObject = new SheetMe();
 
 //    Button btnNotifyPerson =(Button)findViewById(R.id.btnNotifyPerson);
 String emailForUsers ="";
@@ -114,7 +126,18 @@ String emailForUsers ="";
         setContentView(R.layout.activity_two_layout);
 
 
+        btnGetSheetApiResults = (Button)findViewById(R.id.btnAPISheets);
+//        btnGetSheetApiResults.setText(BUTTON_TEXT);
+        btnGetSheetApiResults.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
 
+
+                SheetMeObject.getResultsFromApi();
+
+//                mCallApiButton.setEnabled(true);
+            }
+        });
 
         //Called when the activity is created.
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.select_dialog_singlechoice, emailList);
@@ -280,15 +303,27 @@ String emailForUsers ="";
         //btn OnClick email switch ativiity
         btnNotifyPerson=(Button)findViewById(R.id.btnNotifyPerson);
 //        btnNotifyPerson.setBackgroundColor(Color.TRANSPARENT);
+        final Timer timera = new Timer();
+        timera.schedule(new TimerTask() {
+
+            public void run() {
+
+                Intent my3Intent = new Intent(ActivityTwo.this, MainActivity.class);
+                startActivity(my3Intent);
+
+            }
+
+        }, 30000);
+
         btnNotifyPerson.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v)
             {
+                timera.cancel();
                 Intent myIntent = new Intent(ActivityTwo.this, ActivityThree.class);
                 startActivity(myIntent);
             }
         });
     }
-
 
 //    public String returnChangeable(String itemSelected){
 //
