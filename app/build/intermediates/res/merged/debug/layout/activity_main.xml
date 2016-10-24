@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/activity1"
+    android:background="#f9fafc"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <View android:id="@+id/fakeView"
+        android:layout_width="0sp"
+        android:layout_height="0sp"
+        android:layout_centerInParent="true"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView1"
+        android:background="@drawable/appgirl1"
+        android:layout_toRightOf="@+id/fakeView"
+        android:layout_toEndOf="@+id/fakeView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight = "true"
+        app:layout_aspectRatio="100%"
+        app:layout_heightPercent="100%"
+        app:layout_marginTopPercent="0%"
+        app:layout_marginLeftPercent="0%"
+        android:layout_gravity="start|right"
+        />
+    <!--app:layout_widthPercent="80%"-->
+    <!--android:layout_marginTop="130dp"-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_medium"
+        android:id="@+id/imageView3"
+        android:textStyle="bold|italic"
+        android:background="@drawable/visiting"
+        app:layout_aspectRatio="100%"
+        app:layout_widthPercent="45%"
+        app:layout_heightPercent="19%"
+        app:layout_marginTopPercent="2%"
+        app:layout_marginLeftPercent="0%"
+        android:layout_gravity="start|center_vertical"
+        android:contentDescription="Visiting" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:layout_alignRight="@+id/fakeView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        app:layout_widthPercent="45%"
+        app:layout_heightPercent="20%"
+        app:layout_marginBottomPercent="15%"
+        app:layout_marginLeftPercent="0%"
+        android:layout_marginBottom="28sp"
+        android:layout_gravity="start|bottom"
+        android:background="@drawable/tapscreen" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_alignLeft="@id/imageView2"
+        android:layout_alignStart="@id/imageView2"
+        android:background="@drawable/welcome"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@id/fakeView"
+        android:layout_toStartOf="@id/fakeView"
+        app:layout_aspectRatio="100%"
+        app:layout_widthPercent="45%"
+        app:layout_heightPercent="38%"
+        app:layout_marginTopPercent="0%"
+        app:layout_marginLeftPercent="0%"
+        android:layout_gravity="start|top"
+        android:contentDescription="Welcome" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:id="@+id/btnTransfer"
+        android:singleLine="true"
+        android:enabled="true" />
+
+
+
+
+</android.support.percent.PercentFrameLayout>

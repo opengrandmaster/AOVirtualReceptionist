@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.percent.PercentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:tools="http://schemas.android.com/tools">
+    <View android:id="@+id/fakeView2"
+        android:layout_width="0sp"
+        android:layout_height="0sp"
+        android:layout_centerInParent="true"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView1"
+        android:background="@drawable/appgirl1"
+        android:layout_toRightOf="@+id/fakeView2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight = "true"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnNotifyPerson"
+        android:singleLine="false"
+        app:layout_heightPercent="17%"
+        app:layout_widthPercent="45%"
+        app:layout_marginTopPercent="64%"
+        android:visibility="visible"
+        android:background="@drawable/notifybutton2"
+        android:clickable="true"
+        android:layout_alignRight="@+id/fakeView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        />
+
+    <AutoCompleteTextView
+        android:id="@+id/emailACList"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:nextFocusUp="@id/emailACList"
+        android:nextFocusLeft="@id/emailACList"
+        android:background="#ebebeb"
+        android:selectAllOnFocus="false"
+        android:layout_below="@+id/editText3"
+        android:layout_toLeftOf="@id/fakeView2"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="38sp"
+        android:textSize="40sp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:hint="enter name here"
+        android:textAlignment="center"
+        android:textColorHint="#265b97"
+        android:layout_alignRight="@+id/fakeView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        app:layout_widthPercent="45%"
+        app:layout_heightPercent="20%"
+        app:layout_marginBottomPercent="47%"
+        app:layout_marginLeftPercent="0%"
+        android:layout_marginBottom="28sp"
+        android:layout_gravity="start|bottom"
+     />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/entername"
+        android:id="@+id/imageView4"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/fakeView2"
+        app:layout_widthPercent="45%"
+        app:layout_heightPercent="20%"
+        app:layout_marginTopPercent="4%"
+        app:layout_marginLeftPercent="0%" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAPISheets"
+        android:visibility="invisible" />
+
+
+</android.support.percent.PercentFrameLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="103732502977448"
+    token="7751807310537257727"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2518" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="103110358162315"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="103732502977448"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
