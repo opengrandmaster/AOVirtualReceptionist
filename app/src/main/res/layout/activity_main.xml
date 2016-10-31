@@ -91,7 +91,13 @@
         android:singleLine="true"
         android:enabled="true" />
 
-
+d    <TextView
+        android:text="Ver. 103116"
+        android:textAppearance="@dimen/text_size_small"
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"
+        android:layout_gravity="start|bottom"
+        android:id="@+id/textViewVersionID" />
 
 
 </android.support.percent.PercentFrameLayout>

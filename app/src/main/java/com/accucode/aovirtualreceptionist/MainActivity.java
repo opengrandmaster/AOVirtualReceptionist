@@ -24,7 +24,6 @@ import com.google.gdata.util.ServiceException;
 import java.util.Arrays;
 
 public class MainActivity extends Activity {
-    ViewPager viewpager;
     Button btnTransfer;
     private static final String BUTTON_TEXT = "Call Google Sheets API";
     private static final String PREF_ACCOUNT_NAME = "accountName";
@@ -44,9 +43,6 @@ public class MainActivity extends Activity {
                 startActivity(myIntent);
             }
         });
-//        viewpager = (ViewPager) findViewById(R.id.pager);
-//        PagerAdapter padapter = new PagerAdapter(getSupportFragmentManager());
-//        viewpager.setAdapter(padapter);
     }
 
 }
