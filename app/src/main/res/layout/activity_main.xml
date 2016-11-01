@@ -97,8 +97,8 @@ d    <TextView
         android:layout_width="wrap_content"
         android:layout_height="10dp"
         android:layout_gravity="start|bottom"
-        android:layout_marginBottom="8sp"
-        android:layout_marginLeft="8sp"
+        android:layout_marginBottom="15sp"
+        android:layout_marginLeft="10sp"
         android:id="@+id/textViewVersionID" />
 
 
