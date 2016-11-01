@@ -95,15 +95,15 @@ String emailForUsers ="";
                 hideKeyboard(ActivityTwo.this);
 
                 String s = (String) arg0.getItemAtPosition(arg2);
-//                String[] splitString = s.split("\\s+");
-//                String firstName = splitString[0];
-//                String lastName = splitString[splitString.length - 1];
-//                String firstLetterOfName = firstName.substring(0, 1);
-////                String emailForUser = firstLetterOfName + lastName + "@accucode.com";
-//                final String emailForUser = firstLetterOfName + lastName + "@accucode.com";
+                String[] splitString = s.split("\\s+");
+                String firstName = splitString[0];
+                String lastName = splitString[splitString.length - 1];
+                String firstLetterOfName = firstName.substring(0, 1);
+//                String emailForUser = firstLetterOfName + lastName + "@accucode.com";
+                final String emailForUser = firstLetterOfName + lastName + "@accucode.com";
 
                 // Wyatt...
-                final String emailForUser = new FindEmailUtility().FindEmailFor(getApplicationContext(), s);
+//                final String emailForUser = new FindEmailUtility().FindEmailFor(getApplicationContext(), s);
 
                 Log.i("CREATED", emailForUser);
                 emailForUsers = emailForUser;

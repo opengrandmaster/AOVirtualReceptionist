@@ -1,7 +1,4 @@
-#Mon Oct 31 09:39:05 MDT 2016
-base.0=C\:\\Users\\jarenas\\Documents\\AndroidWork\\AOVirtualReceptionist2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_670f8b2557185be5941e93158aea48c1f5d26a9d
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\jarenas\\Documents\\AndroidWork\\AOVirtualReceptionist2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1d55ba248b6af5711d25ce803cdbf05c59d1a270\\classes.dex
-base.1=C\:\\Users\\jarenas\\Documents\\AndroidWork\\AOVirtualReceptionist2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1d55ba248b6af5711d25ce803cdbf05c59d1a270
-file.0=C\:\\Users\\jarenas\\Documents\\AndroidWork\\AOVirtualReceptionist2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_670f8b2557185be5941e93158aea48c1f5d26a9d\\classes.dex
+#Tue Nov 01 09:31:25 MDT 2016
+base.0=C\:\\Users\\jarenas\\Documents\\AndroidWork\\AOVirtualReceptionist2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\jarenas\\Documents\\AndroidWork\\AOVirtualReceptionist2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

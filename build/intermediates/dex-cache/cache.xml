@@ -2,310 +2,292 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_5707a61a568c5d6737f0c67ab13ea9aa18ad1403\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0a89931fc32a7afbc9e071c5d35a53d5b7062b7b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-spreadsheet-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="8d4ae64feb82e2ded69b726fcfe18f8324af702f">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-spreadsheet-1.0_823fea48b101c8b991c6e6a9f5815f5b194e8bfd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_a8ec41c390bd4227a258915f7f1fa4c9b5f058fb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_5b17239b66cfd0c3c434caf125b1a2c6f9c1bff8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-photos-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="3c43b4c072e175ae2b142136b5c22bfdc4cdcb12">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-photos-1.0_487d9aeeb968d5c7cb67d00360108f90bd94b20a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_a735e8905185d0b23fa7de394a04c2bd268acbcf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_d1b2fb9f1036abcc4798f21910d2a613c1fdd8c9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="829c6e46cb221c2102801221c648b77113743e81">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_434c9daef3146847c301995678a6687071923c2c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_ce8d481eb12d4537328556db23df4b5e01f924ac\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.22.0_d5074c6c13d28f840dc7193fb5152a3468893ea6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\mail.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="428e267abff0d10802ccde86b915da2c20471160">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_0d93efe91dfd0dee311c98b660200ba8508d52be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-client-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="1fb686d98aa8eee63a7bc4c4e00d04618409f284">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-client-1.0_0820f8fb59197ce3f00bd743ef2ad5655c76664e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_6e20cf1d0972e15128c36c94213593050778e206\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_b791930042630b622490e8cf8507c5fd450c179f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-sheets\v4-rev22-1.22.0\6d0bb1e27bac96b1a0980ca8ec3d87513ebad3f6\google-api-services-sheets-v4-rev22-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="6d0bb1e27bac96b1a0980ca8ec3d87513ebad3f6">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-sheets-v4-rev22-1.22.0_55266debc61ec7f07f80ffa0c0ca007097b98f0a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_00924127023b35092de6c67aa0e7e7021b6c05d7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\pub.devrel-easypermissions-0.1.5_9f16f1009daa39fc3a1199d0cdf83fb25bf69307\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-calendar-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="b153b28a0632701b3d4bd47bea55a268c9d86de3">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-calendar-1.0_b948c43db2b5615c23c640c103f01e4ea21c7a96\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_37785600fb8c1217481d7249a0fa69d26e67af70\classes.dex" />
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.2_37785600fb8c1217481d7249a0fa69d26e67af70.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_b6742b98977da492f3f24453fd94e94c4d4b294b\classes.dex" />
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b6742b98977da492f3f24453fd94e94c4d4b294b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-appsforyourdomain-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="fb5f498bb2e5e36f303463120fb6e5e83fdf8070">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-appsforyourdomain-1.0_eca5c332648f1d48d7b6c1886f34891472b01e52\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-base-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="b35c9037fe61f01872b05e5517e488aa3584eabf">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-base-1.0_55d4810e7ae5e441312d6db9cdeeb299247f6b63\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="1d63f369ac78e4838a3197147012026e791008cb">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_2299f0c076fa1d222b4b06c7493772df406cfe5d\classes.dex" />
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.22.0_2299f0c076fa1d222b4b06c7493772df406cfe5d.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.22.0_b1f789df5c0547a0d4a817bbd198a0434c7c1888\classes.dex" />
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.22.0_b1f789df5c0547a0d4a817bbd198a0434c7c1888.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-appsforyourdomain-1.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="6e7040af4ab4aa797cbf6e6eacf94fcf241ae8f0">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-23.1.0_7e559031362c03453873be35d1e884ee366ef667\classes.dex" />
+        sha1="fb5f498bb2e5e36f303463120fb6e5e83fdf8070">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\gdata-appsforyourdomain-1.0_eca5c332648f1d48d7b6c1886f34891472b01e52.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.2_434c9daef3146847c301995678a6687071923c2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-codesearch-1.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="4949eb8f37e629e62a1d3c56bcf2c52589770037">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-codesearch-1.0_860525c3d2088d36bc421c0063eb6a92ba979413\classes.dex" />
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\gdata-codesearch-1.0_860525c3d2088d36bc421c0063eb6a92ba979413.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_5288ce8ab32fe6c9cfc8a69c77bf22c11ed74025\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="fa1b91ae747afb7b17bd8762db7f1a9360bbfda1">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d55ba248b6af5711d25ce803cdbf05c59d1a270\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_00664b672bd6e44c089fe7254a6f7ab47adf4490\classes.dex" />
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_00664b672bd6e44c089fe7254a6f7ab47adf4490.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_e034dc979c5ff591abbf2c266d9aed5488ce27f8\classes.dex" />
+        sha1="6e7040af4ab4aa797cbf6e6eacf94fcf241ae8f0">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.android.support-percent-23.1.0_7e559031362c03453873be35d1e884ee366ef667.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_604ecc91149337a4a5245d1809be5540a88bd25e\classes.dex" />
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_5288ce8ab32fe6c9cfc8a69c77bf22c11ed74025.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-base-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b35c9037fe61f01872b05e5517e488aa3584eabf">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\gdata-base-1.0_55d4810e7ae5e441312d6db9cdeeb299247f6b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_5b17239b66cfd0c3c434caf125b1a2c6f9c1bff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\jarenas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_63a0bd0d0bb65bb81788d58bb79e917f95764075\classes.dex" />
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_63a0bd0d0bb65bb81788d58bb79e917f95764075.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="2a6bd9c2cae8e12a99ac41a2300072a586926998">
-        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_670f8b2557185be5941e93158aea48c1f5d26a9d\classes.dex" />
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\google-http-client-1.22.0_e034dc979c5ff591abbf2c266d9aed5488ce27f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_604ecc91149337a4a5245d1809be5540a88bd25e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.22.0_5707a61a568c5d6737f0c67ab13ea9aa18ad1403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-photos-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c43b4c072e175ae2b142136b5c22bfdc4cdcb12">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\gdata-photos-1.0_487d9aeeb968d5c7cb67d00360108f90bd94b20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_a8ec41c390bd4227a258915f7f1fa4c9b5f058fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_a735e8905185d0b23fa7de394a04c2bd268acbcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_d1b2fb9f1036abcc4798f21910d2a613c1fdd8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-spreadsheet-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d4ae64feb82e2ded69b726fcfe18f8324af702f">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\gdata-spreadsheet-1.0_823fea48b101c8b991c6e6a9f5815f5b194e8bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\guava-jdk5-17.0_ce8d481eb12d4537328556db23df4b5e01f924ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.22.0_d5074c6c13d28f840dc7193fb5152a3468893ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\google-api-client-1.22.0_b791930042630b622490e8cf8507c5fd450c179f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-client-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fb686d98aa8eee63a7bc4c4e00d04618409f284">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\gdata-client-1.0_0820f8fb59197ce3f00bd743ef2ad5655c76664e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\mail_0d93efe91dfd0dee311c98b660200ba8508d52be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-sheets\v4-rev22-1.22.0\6d0bb1e27bac96b1a0980ca8ec3d87513ebad3f6\google-api-services-sheets-v4-rev22-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d0bb1e27bac96b1a0980ca8ec3d87513ebad3f6">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\google-api-services-sheets-v4-rev22-1.22.0_55266debc61ec7f07f80ffa0c0ca007097b98f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_0a89931fc32a7afbc9e071c5d35a53d5b7062b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\pub.devrel-easypermissions-0.1.5_9f16f1009daa39fc3a1199d0cdf83fb25bf69307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_00924127023b35092de6c67aa0e7e7021b6c05d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_6e20cf1d0972e15128c36c94213593050778e206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\libs\gdata-calendar-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b153b28a0632701b3d4bd47bea55a268c9d86de3">
+        <dex dex="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\pre-dexed\debug\gdata-calendar-1.0_b948c43db2b5615c23c640c103f01e4ea21c7a96.jar" />
     </item>
 
 </items>

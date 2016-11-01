@@ -4,7 +4,7 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="261332123768657"
+    timestamp="80972938795094"
     token="7751807310537257727"
     verifier="COMPATIBLE" >
 
@@ -26,14 +26,14 @@
         type="RESOURCES" />
 
     <build
-        timestamp="259658791575116"
+        timestamp="80678365541849"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="261332123768657"
+        timestamp="80972938795094"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\jarenas\Documents\AndroidWork\AOVirtualReceptionist2\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
